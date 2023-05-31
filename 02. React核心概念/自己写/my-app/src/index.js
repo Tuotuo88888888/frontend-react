@@ -1,1 +1,1 @@
-import "./page/Student";
+import "./page/Ball";
